@@ -334,8 +334,6 @@ My hands-on contributions to the project included the implementation and testing
 * Attack detection testing
 * Analysis of Wazuh-generated alerts
 
-The project was developed as an academic group project, while this repository presents the technical work and implementation from my personal portfolio perspective.
-
 ---
 
 # Key Takeaways
